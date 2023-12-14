@@ -1,12 +1,29 @@
-FROM ruby:2.7
+FROM titom73/mkdocs AS MKDOCS_BUILD
 
-ENV LC_ALL C.UTF-8
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
+MAINTAINER Software Shinobi "troy@softwareshinobi.online"
 
-WORKDIR /usr/src/app
+##########################################
+##
+## install pip deps
+##
 
-COPY Gemfile just-the-docs.gemspec ./
-RUN gem install bundler && bundle install
+RUN pip install markupsafe==2.0.1
 
-EXPOSE 4000
+##########################################
+##
+## Copy mkdocs content
+##
+
+WORKDIR /docs
+
+COPY . . 
+
+##########################################
+
+RUN mkdocs build
+
+##########################################
+
+FROM mengzyou/bbhttpd:1.35
+
+COPY --from=MKDOCS_BUILD --chown=www:www /docs/site /home/www/html

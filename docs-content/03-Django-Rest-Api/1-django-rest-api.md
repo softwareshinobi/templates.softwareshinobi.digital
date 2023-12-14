@@ -1,9 +1,9 @@
-# Home
+# card-players-unite / django-rest-api
 
 An official Kubernetes project, located at github.com/kubernetes/kompose
 Go from Docker Compose to Kubernetes.
 
-<img src="images-pictures/cover-image.png" alt= “” wiaadth="225" heighat="225">
+<img src="/images/missions/mission-card-players-unite.png" alt= “” wiaadth="225" heighat="225">
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
@@ -11,19 +11,9 @@ Kompose is a conversion tool for Docker Compose to container orchestrators such 
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
-[Go To Portal](developer-guides/installation-guide.md)
+[Live Demo](developer-guides/installation-guide.md)
 
-## Mission #1 // Deploy Party Mode For RMC
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-[Go To Party Mode RMC Portal](/Mission-Guides/mission-party-mode-rmc/)
-
-## Mission #2 // Stand Up Newsletter + Wordpress Infrastructure [DEFERRED]
+## Installing The API
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
@@ -31,19 +21,9 @@ Kompose is a conversion tool for Docker Compose to container orchestrators such 
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
-[Go To Portal](developer-guides/installation-guide.md)
+[Installation Guide](developer-guides/installation-guide.md)
 
-## Mission #3 // Deploy Party Mode For Teknically Speaking [DEFERRED]
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
-
-[Go To Portal](developer-guides/installation-guide.md)
-
-## Mission #4 // Resume Service [DEFERRED]
+## Get Started With The API
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
@@ -51,9 +31,19 @@ Kompose is a conversion tool for Docker Compose to container orchestrators such 
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
-[Go To Portal](developer-guides/installation-guide.md)
+[Getting Started](developer-guides/getting-started-guide.md)
 
-## Mission #5 // Mateo Montenegro Two Butts A Day [DEFERRED]
+## Activity Tracking
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+[See The Kanban Board](developer-guides/installation-guide.md)
+
+## Source Code Repository
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
@@ -61,8 +51,34 @@ Kompose is a conversion tool for Docker Compose to container orchestrators such 
 
 Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
 
-[Go To Portal](developer-guides/installation-guide.md)
+[Go To GitHub](developer-guides/installation-guide.md)
 
-##########################################
+## Build & Deploy Automation
 
-## Mission #3 // Project Twenty Eight Paper Trade
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+[Go To Jenkins](developer-guides/installation-guide.md)
+
+## API User Guide
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+[Learn How To Use The API](developer-guides/installation-guide.md)
+
+## Play With The API
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).
+
+[Live Demo](developer-guides/installation-guide.md)
